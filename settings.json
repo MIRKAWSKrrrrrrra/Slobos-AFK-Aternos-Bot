@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BzPVP.aternos.me",
-    "port": 27586,
+    "ip": "pricklefish.aternos.host:23848",
+    "port": 23848,
     "version": "",
     "try-creative": false
   },
